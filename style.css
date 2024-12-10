@@ -68,6 +68,7 @@ nav{
     justify-content: space-between;
     height: 80px;
     box-shadow: 0 5px 80px rgba(0, 0, 0, 0.233);
+    z-index: 2;
 }
 
 nav .logo,
